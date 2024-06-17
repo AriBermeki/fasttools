@@ -17,7 +17,7 @@ pip install fasttools
 
 ## Project folder structure
 
-
+```plaintext
 project_folder_struktur/
 │
 ├── client/
@@ -26,7 +26,7 @@ project_folder_struktur/
 ├── main.py
 ├── build.py
 
-
+```
 
 
 
