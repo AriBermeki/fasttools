@@ -16,7 +16,7 @@ pip install fasttools
 ---------------------
 
 ## Project folder structure
-
+/
 ├── client/
 ├── static/
 │   ├── 
