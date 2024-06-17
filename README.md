@@ -1,8 +1,13 @@
-# fasttools
-a set of python funktions and classes for web development
+<p align="center">
+  <a href="https://www.yellow-sic.com/">
+    <img width="100" src="./fasttools/app.png">
+  </a>
+  </br>
+</p>
 
-### Please note: this library is currently in early alpha and is NOT ready for production use.
-
+<h2 align="center">Fasttools </h2>
+<h3 align="center">a set of python funktions and classes for web development </h3>
+<h4 align="center">Please note: this library is currently in early alpha and is NOT ready for production use.</h4>
 
 ## 📦 Installation
 
