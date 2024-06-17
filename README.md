@@ -16,13 +16,18 @@ pip install fasttools
 ---------------------
 
 ## Project folder structure
-/
+
+
+project_folder_struktur/
+│
 ├── client/
-├── static/
 │   ├── 
 ├── .venv
 ├── main.py
 ├── build.py
+
+
+
 
 
 
