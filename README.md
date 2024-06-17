@@ -33,11 +33,6 @@ project_folder_struktur/
 
 ```
 
-
-
-
-```
-
 ## Usage
 
 ### main.py
